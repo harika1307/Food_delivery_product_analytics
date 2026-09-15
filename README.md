@@ -1,2 +1,15 @@
 # Food_delivery_product_analytics
-Food delivery product analytics using Python, SQL, RFM segmentation, retention analysis, and experimentation.
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### Customer & Retention
+![Customer & Retention](screenshots/customer_retention.png)
+
+### Restaurant & Operations
+![Restaurant & Operations](screenshots/restaurant_operations.png)
+
+### A/B Experimentation
+![A/B Experimentation](screenshots/ab_experimentation.png)
