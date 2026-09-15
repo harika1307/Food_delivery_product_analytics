@@ -3,13 +3,13 @@
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](screenshots/page-1.png)
 
 ### Customer & Retention
-![Customer & Retention](screenshots/customer_retention.png)
+![Customer & Retention](screenshots/page_2.png)
 
 ### Restaurant & Operations
-![Restaurant & Operations](screenshots/restaurant_operations.png)
+![Restaurant & Operations](screenshots/page_3.png)
 
 ### A/B Experimentation
-![A/B Experimentation](screenshots/ab_experimentation.png)
+![A/B Experimentation](screenshots/page_4.png)
