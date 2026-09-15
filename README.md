@@ -108,15 +108,15 @@ Although promotional cost increased substantially, net value per user also incre
 
 ## Customer & Retention
 
-![Customer & Retention](screenshots/page-2.png)
+![Customer & Retention](screenshots/page_2.png)
 
 ## Restaurant & Operations
 
-![Restaurant & Operations](screenshots/page-3.png)
+![Restaurant & Operations](screenshots/page_3.png)
 
 ## A/B Experimentation
 
-![A/B Experimentation](screenshots/page-4.png)
+![A/B Experimentation](screenshots/page_4.png)
 
 ---
 
@@ -141,7 +141,7 @@ Food_delivery_product_analytics/
 ├── pb.pbix
 ├── product_analytics.ipynb
 └── requirements.txt
-
+```
 ## 💡 Key Product Insights
 
 - **Bengaluru is the largest order-volume market**, contributing the highest number of delivered orders among the analyzed cities.
